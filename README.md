@@ -13,3 +13,4 @@ Aplicación Node.js/Express de laboratorio para la práctica de Git, GitHub y Do
 ## Endpoints
 - `GET /` — información básica y entorno
 - `GET /health` — estado de salud (`{"status":"UP"}`)
+Práctica realizada por: Brayan Cepeda
