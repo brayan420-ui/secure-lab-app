@@ -6,7 +6,7 @@ const environment = process.env.APP_ENV || 'local';
 
 app.get('/', (req, res) => {
   res.status(200).json({
-    message: 'Secure Lab App',
+    message: 'Secure Lab App - Specialization Security Lab',
     environment
   });
 });
