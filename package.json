@@ -1,0 +1,12 @@
+{
+  "name": "secure-lab-app",
+  "version": "1.0.0",
+  "description": "Aplicación de laboratorio para la práctica de Git, GitHub y Docker (DevSecOps)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
